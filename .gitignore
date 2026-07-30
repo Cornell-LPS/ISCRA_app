@@ -1,0 +1,33 @@
+# NIST-derived spectral-line data
+dataNeon.csv
+dataKrypton.csv
+dataMercury.csv
+dataOxygen.csv
+dataHydrogen.csv
+
+# Visual Studio / C#
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Python
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Generated build files
+build/
+dist/
+
+# Local Visual Studio publishing profiles
+Properties/PublishProfiles/
+
+# Generated runtime/output files
+peak_arr_loc.json
+outputs/
