@@ -110,4 +110,4 @@ NIST has not endorsed this application.
 
 ## Acknowledgments
 
-Developed for the Cornell Laboratory of Plasma Studies under the supervision of Professor Jack D. Hare, and with the help of Luke Filor.
+Developed for the Cornell Laboratory of Plasma Studies under the supervision of Professor Jack D. Hare, and with support from Luke Filor.
